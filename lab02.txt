@@ -1,0 +1,6 @@
+name=input("enter your name")
+print(name)
+print("shabna","raga",sep="_",end="\t")
+print("raga")
+name=input("you are welcome shabna to the python class")
+print(input)
