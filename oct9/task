@@ -1,0 +1,7 @@
+a=int(input("enter first value\n"))
+b=int(input("enter second value\n"))
+c=int(input("enter third value\n"))
+d=int(input("fourth value\n"))
+e=int(input("enter fifth value\n"))
+my_task={a,b,c,d,e}
+print(my_task)
