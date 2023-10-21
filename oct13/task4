@@ -1,0 +1,7 @@
+#square and cube
+
+a=int(input("enter a value\n"))
+square=a**2
+print(square)
+cube=a**3
+print(cube)
