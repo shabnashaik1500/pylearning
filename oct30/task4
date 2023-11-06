@@ -1,7 +1,3 @@
-[[Imy_dict={"name":"shabna","age":28,"gender":"female"}
-print(my_dict.pop("name"))
-print(my_dict)
-"""
 my_dict={"bookingid":2384,
          "booking":{
              "firstname":"PRAMOD",
